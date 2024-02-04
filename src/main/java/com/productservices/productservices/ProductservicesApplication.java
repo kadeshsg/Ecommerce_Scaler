@@ -7,7 +7,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class ProductservicesApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ProductservicesApplication.class, args); 
+		SpringApplication.run(ProductservicesApplication.class, args);
+		System.out.println("kadesh");
 	}
 
 }
